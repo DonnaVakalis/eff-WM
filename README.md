@@ -1,3 +1,4 @@
 # eff-WM
 
-Effective working memory project.
+world models as effective memories
+
